@@ -1,0 +1,1 @@
+ export {default as GrailTemplate} from './Grail.vue'
